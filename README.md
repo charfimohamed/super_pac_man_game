@@ -50,7 +50,6 @@ To launch the game run the play.java File
 > * One sound is used from the **res** folder.
 > * All other sounds are downloaded from [https://www.zapsplat.com](https://www.zapsplat.com) and edited for size reduction using [https://www.compresss.com](https://www.compresss.com).
 
-================================================================
 
 ENJOY THE GAME ! 
 ================================================================
