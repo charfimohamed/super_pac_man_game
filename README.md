@@ -55,4 +55,4 @@ ENJOY THE GAME !
 ================================================================
 
 
-This project was done as part of the CS107 course at EPFL.
+This project  was developed in collaboration with Omar Mezghani as part of the CS107 course at EPFL.
